@@ -1,4 +1,4 @@
-CREATE DATABASE clinic_reservation_system;
+
 use clinic_reservation_system;
 
 
